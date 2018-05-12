@@ -1,0 +1,50 @@
+_repo: '--------_27668'
+_version: 0.1.0
+alternative_title: Frogs
+contributor:
+  translator:
+    agent_name: Demetrakopoulos, Polyvios
+    aliases:
+    - Δημητρακόπουλος, Πολύβιος
+    - Dimitrakopoulos, Polyvios
+    - Arcas, Paul
+    - Αρκάς, Πολ
+    - Dimitrakopoulos, Polybius
+    - Arcas, Pol
+    birthdate: 1864
+    deathdate: 1922
+    gutenberg_agent_id: '7615'
+    url: http://www.gutenberg.org/2009/agents/7615
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%BF%CE%BB%CF%8D%CE%B2%CE%B9%CE%BF%CF%82_%CE%94%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Ἀριστοφάνης
+    - Αριστοφάνης
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: http://en.wikipedia.org/wiki/Aristophanes
+description: ''
+gutenberg_issued: '2008-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27668'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dionysus (Greek deity) -- Drama'
+- !lcsh 'Playwriting -- Drama'
+- !lcc 'PA'
+- !lcsh 'Comedies'
+- !lcsh 'Dramatists -- Drama'
+- !lcsh 'Voyages to the otherworld -- Drama'
+title: Βάτραχοι
+url: http://www.gutenberg.org/ebooks/27668
